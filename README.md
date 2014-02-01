@@ -1,11 +1,11 @@
-<<<<<<< HEAD
+
 Tjcoin integration/staging tree
 ================================
 
 http://www.Tjcoin.org
 
 Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2011-2013 Tjcoin Developers
+Copyright (c) 2012-2019 Tjcoin Developers
 
 What is Tjcoin?
 ----------------
@@ -78,4 +78,4 @@ Taojingcoin
 ===========
 
 this is Taojingcoin project code
->>>>>>> 191e6c55ed946d950bbc56c7881a78ad01de7004
+191e6c55ed946d950bbc56c7881a78ad01de7004
