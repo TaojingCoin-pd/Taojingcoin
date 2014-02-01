@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Tjcoin integration/staging tree
 ================================
 
@@ -72,3 +73,9 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
     make -f Makefile.test
     ./Tjcoin-qt_test
 
+=======
+Taojingcoin
+===========
+
+this is Taojingcoin project code
+>>>>>>> 191e6c55ed946d950bbc56c7881a78ad01de7004
